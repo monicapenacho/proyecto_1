@@ -3,3 +3,6 @@ huevos
 cebolla
 aceite
 sal
+tomates
+pepinos
+ajos
