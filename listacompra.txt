@@ -6,3 +6,5 @@ sal
 tomates
 pepinos
 ajos
+platanos
+leche
